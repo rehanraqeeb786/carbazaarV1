@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<configuration date="2022/06/28" author="e.World Technology Ltd.">
+<project id="{B7B92366-0BC8-4357-900F-FDBD8A72F51D}" file="F:\web\htdocs\carbazaar\workplace\carbazaarV1\carbazaar_mkr12.pmp" name="Car_Bazaar" product="PHPMaker" version="12.0" datetime="2022/06/28 21:29:41" languagefolder="phplang" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0">
+<table id="customers" name="customers" caption="Customers" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="adm_users" name="adm_users" caption="Users" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="user_level_permission" name="user_level_permission" caption="user level permission" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="user_levels" name="user_levels" caption="User Levels" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="car_ads" name="car_ads" caption="Car Ads" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="cfg_body_colors" name="cfg_body_colors" caption="Body Color" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="cfg_body_type" name="cfg_body_type" caption="Body Type" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="cfg_car_versions" name="cfg_car_versions" caption="Car Versions" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="cfg_cities" name="cfg_cities" caption="Cities" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="cfg_engine_types" name="cfg_engine_types" caption="Engine Types" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="cfg_features" name="cfg_features" caption="Features" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="cfg_make_companies" name="cfg_make_companies" caption="Make Companies" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="cfg_models" name="cfg_models" caption="Car Models" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="dealers_showroom" name="dealers_showroom" caption="dealers showroom" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="audittrail" name="audittrail" caption="audittrail" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="cfg_province" name="cfg_province" caption="Province" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="cfg_years" name="cfg_years" caption="Years Configuration" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="ad_features" name="ad_features" caption="Features" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="ad_pictures" name="ad_pictures" caption="Pictures" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="failed_jobs" name="failed_jobs" caption="Failed Jobs" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="migrations" name="migrations" caption="migrations" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="password_resets" name="password_resets" caption="password resets" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="personal_access_tokens" name="personal_access_tokens" caption="personal access tokens" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="users" name="users" caption="users" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="bank_accounts" name="bank_accounts" caption="Bank Accounts" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="packages" name="packages" caption="Packages" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="pay_methods" name="pay_methods" caption="Pay Methods" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="payment_transactions" name="payment_transactions" caption="Payment Transaction Log" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="vw_pending_ads_list" name="vw_pending_ads_list" caption="Pending Ads" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="cfg_classified_attribure" name="cfg_classified_attribure" caption="Clasified Attributes" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="classified_attributes" name="classified_attributes" caption="Classified Attributes" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="classified_colors" name="classified_colors" caption="Classified Colors" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="classified_data" name="classified_data" caption="Classified Data" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="classified_faqs" name="classified_faqs" caption="Classified FAQ" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="classified_pictures" name="classified_pictures" caption="Classified Pictures" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="cfg_business_directory" name="cfg_business_directory" caption="Business Directory" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="dashboard_php" name="dashboard.php" caption="Dashboard" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="vw_approved_ads_list" name="vw_approved_ads_list" caption="Approved Ads" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="vw_ads_payment_detail" name="vw_ads_payment_detail" caption="Ads Payment Details" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="cfg_bussiness_listing_category" name="cfg_bussiness_listing_category" caption="Business Listing Category" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="vw_payment_api_response" name="vw_payment_api_response" caption="Payment API Response Track" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="vw_current_feature_ads" name="vw_current_feature_ads" caption="Current Feature Ads" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+<table id="cfg_advertisement_spaces" name="cfg_advertisement_spaces" caption="Advertisement Space" userlevel="-2,&quot;Anonymous&quot;,0;0,&quot;Default&quot;,0" priv="1"/>
+</project></configuration>
